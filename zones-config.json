@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mode": "route",
-  "factor": 1.8,
+  "factor": 1,
   "zones": [
     {
       "max": 15,
